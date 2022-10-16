@@ -81,6 +81,6 @@ We also provide our pretrained models as follows: (coming soon
 # 6 citing
 If you find our work or codes useful, please consider citing our work ﾍ|･∀･|ﾉ*~●
 ```
-also coming soon...
+Fu, Yuqian, et al. "ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning." Proceedings of the 30th ACM International Conference on Multimedia. 2022.
 ```
 
