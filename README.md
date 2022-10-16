@@ -1,6 +1,6 @@
 # ME-D2N_for_CDFSL
 Repository for the paper : 
-ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning （to appear in ACM MM 2022）
+ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning （ACM MM 2022）
 
 [paper link](https://arxiv.org/pdf/2210.05280.pdf)
 
@@ -81,6 +81,12 @@ We also provide our pretrained models as follows: (coming soon
 # 6 citing
 If you find our work or codes useful, please consider citing our work ﾍ|･∀･|ﾉ*~●
 ```
-Fu, Yuqian, et al. "ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning." Proceedings of the 30th ACM International Conference on Multimedia. 2022.
+@inproceedings{fu2022me,
+  title={ME-D2N: Multi-Expert Domain Decompositional Network for Cross-Domain Few-Shot Learning},
+  author={Fu, Yuqian and Xie, Yu and Fu, Yanwei and Chen, Jingjing and Jiang, Yu-Gang},
+  booktitle={Proceedings of the 30th ACM International Conference on Multimedia},
+  pages={6609--6617},
+  year={2022}
+}
 ```
 
