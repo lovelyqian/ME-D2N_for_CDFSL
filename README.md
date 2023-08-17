@@ -32,7 +32,7 @@ We evaluate our methods on five datasets: mini-Imagenet works as source dataset,
 
 # 3 pretraining
 As in most of the previous CD-FSL methods, a pretrained feature extractor `baseline`   is used.
-- you can directly download it from [this link](), rename it as 399.tar, and put it to the `./output/checkpoints/baseline` 
+- you can directly download it from [this link](https://drive.google.com/file/d/1iYu3lvYDixVNPYjmyi0MON8-X3aRN4n2/view), rename it as 399.tar, and put it to the `./output/checkpoints/baseline` 
 - or you can pretrain it as follows:
 ```
 python3 train_metaTeacher.py --modelType pretrain --dataset miniImagenet --name baseline --train_aug
