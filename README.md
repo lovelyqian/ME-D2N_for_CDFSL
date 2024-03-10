@@ -30,6 +30,8 @@ We evaluate our methods on five datasets: mini-Imagenet works as source dataset,
 2. Remember to modify your own dataset dir in the 'options.py'.
 3. We follow the same the same auxiliary target images as in our previous work [meta-FDMixup](https://github.com/lovelyqian/Meta-FDMixup), and the used jsons have been provided in the output dir of this repo.
 
+If you can't find the Plantae dataset, we provide it [here](https://drive.google.com/file/d/1e3TklMlVBCG0XRfEw6DKStJGdmmXgvq5/view?usp=drive_link), please cite its paper. 
+
 # 3 pretraining
 As in most of the previous CD-FSL methods, a pretrained feature extractor `baseline`   is used.
 - you can directly download it from [this link](https://drive.google.com/file/d/1iYu3lvYDixVNPYjmyi0MON8-X3aRN4n2/view), rename it as 399.tar, and put it to the `./output/checkpoints/baseline` 
